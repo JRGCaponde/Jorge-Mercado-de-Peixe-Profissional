@@ -1,0 +1,7 @@
+{
+  "name": "Fish Market Pro",
+  "description": "A high-end POS and E-commerce platform for specialized fish markets, featuring AGT tax compliance, role-based access control, and oceanic professional UI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
